@@ -1,0 +1,1 @@
+otpauth://totp/Auto-Stephen%20(cert)?secret=Q23BGAWPMNWXKWD2
